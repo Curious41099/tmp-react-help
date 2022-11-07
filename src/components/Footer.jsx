@@ -7,14 +7,14 @@ export default function Footer() {
   return (
     <div className="footer">
       <a
-        href="https://github.com/xdelmo"
+        href="https://github.com/Curious41099"
         target="_blank"
         rel="noopener noreferrer"
       >
         <FontAwesomeIcon icon={faGithubSquare} className="footer--icon" />
       </a>
       <a
-        href="https://www.linkedin.com/in/emanueledelmonte/"
+        href="https://www.linkedin.com/in/srinivas-sivaratri-3a0a32162/"
         target="_blank"
         rel="noopener noreferrer"
       >
